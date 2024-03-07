@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+#div1, #div2 {
+  float: left;
+  width: 300px;
+  height: 100px;
+  margin: 100px;
+  padding: 10px;
+  border: 5px solid black;
+ 
+}
+
+h1, p{
+   font-family: 'Open Sans';
+}
+
+img{
+  width: 250px;
+  height: 100px;
+  margin-bottom: 10px;
+ 
+ }
